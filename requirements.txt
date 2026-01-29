@@ -1,0 +1,12 @@
+Django>=4.2
+tensorflow-cpu>=2.10.0
+scikit-learn>=1.0
+pillow
+requests
+gpt4all
+numpy
+pandas
+joblib
+tailwindcss
+gunicorn
+whitenoise
